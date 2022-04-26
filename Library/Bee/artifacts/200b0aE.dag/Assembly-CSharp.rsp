@@ -342,6 +342,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/VoiceSDK.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VoiceSDK.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/CarMovement.cs"
 "Assets/MouseLook.cs"
 "Assets/Oculus/Avatar/Samples/AvatarGallery/Scripts/OvrAvatarTestDriver.cs"
 "Assets/Oculus/Avatar/Samples/GripPoses/Scripts/PoseEditHelper.cs"
